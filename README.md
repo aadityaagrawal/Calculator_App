@@ -1,6 +1,7 @@
 # calculator_app
 
 A new Flutter project.
+In this you can perform various calculations.
 
 ## Getting Started
 
