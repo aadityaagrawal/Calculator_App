@@ -1,7 +1,7 @@
-# calculator_app
+# CALCULATOR APP
 
 A new Flutter project.
-In this you can perform various calculations.
+This app helps you to conduct various calculations. I have also created ANDROID and IOS updates.
 
 ## Getting Started
 
