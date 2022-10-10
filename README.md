@@ -1,6 +1,6 @@
 # CALCULATOR APP
 
-This app helps you to conduct various calculations. I have also created ANDROID and IOS updates.
+This app helps you to conduct various calculations. I have also done ANDROID and IOS updates.
 
 ## Getting Started
 
