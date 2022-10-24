@@ -6,7 +6,7 @@ This app helps you to perform various calculations.
 
 
 
-A Flutter based calculator app
+A Flutter based calculator app.
 
 A few resources to get you started if this is your first Flutter project:
 
